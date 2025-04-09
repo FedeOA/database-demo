@@ -1,0 +1,1 @@
+Jpa vs Jdbc implementation
